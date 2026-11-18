@@ -1,0 +1,299 @@
+[
+  {
+    "slide": 1,
+    "frame": "A",
+    "physical_slide": 1,
+    "title": "Деньги списались. Где билет?",
+    "time": "0:00–1:00",
+    "svg": "assets/01-A.svg",
+    "png": "assets/01-A.png"
+  },
+  {
+    "slide": 1,
+    "frame": "B",
+    "physical_slide": 2,
+    "title": "Деньги списались. Где билет?",
+    "time": "0:00–1:00",
+    "svg": "assets/01-B.svg",
+    "png": "assets/01-B.png"
+  },
+  {
+    "slide": 2,
+    "frame": "A",
+    "physical_slide": 3,
+    "title": "Кто отвечает за покупку",
+    "time": "1:00–3:00",
+    "svg": "assets/02-A.svg",
+    "png": "assets/02-A.png"
+  },
+  {
+    "slide": 2,
+    "frame": "B",
+    "physical_slide": 4,
+    "title": "Кто отвечает за покупку",
+    "time": "1:00–3:00",
+    "svg": "assets/02-B.svg",
+    "png": "assets/02-B.png"
+  },
+  {
+    "slide": 3,
+    "frame": "A",
+    "physical_slide": 5,
+    "title": "Покупка через HTTP",
+    "time": "3:00–6:00",
+    "svg": "assets/03-A.svg",
+    "png": "assets/03-A.png"
+  },
+  {
+    "slide": 3,
+    "frame": "B",
+    "physical_slide": 6,
+    "title": "Покупка через HTTP",
+    "time": "3:00–6:00",
+    "svg": "assets/03-B.svg",
+    "png": "assets/03-B.png"
+  },
+  {
+    "slide": 3,
+    "frame": "C",
+    "physical_slide": 7,
+    "title": "Покупка через HTTP",
+    "time": "3:00–6:00",
+    "svg": "assets/03-C.svg",
+    "png": "assets/03-C.png"
+  },
+  {
+    "slide": 4,
+    "frame": "A",
+    "physical_slide": 8,
+    "title": "Сервисы реагируют на события",
+    "time": "6:00–7:00",
+    "svg": "assets/04-A.svg",
+    "png": "assets/04-A.png"
+  },
+  {
+    "slide": 4,
+    "frame": "B",
+    "physical_slide": 9,
+    "title": "Сервисы реагируют на события",
+    "time": "6:00–7:00",
+    "svg": "assets/04-B.svg",
+    "png": "assets/04-B.png"
+  },
+  {
+    "slide": 4,
+    "frame": "C",
+    "physical_slide": 10,
+    "title": "Сервисы реагируют на события",
+    "time": "6:00–7:00",
+    "svg": "assets/04-C.svg",
+    "png": "assets/04-C.png"
+  },
+  {
+    "slide": 5,
+    "frame": "A",
+    "physical_slide": 11,
+    "title": "Как Kafka хранит и доставляет события",
+    "time": "7:00–9:00",
+    "svg": "assets/05-A.svg",
+    "png": "assets/05-A.png"
+  },
+  {
+    "slide": 5,
+    "frame": "B",
+    "physical_slide": 12,
+    "title": "Как Kafka хранит и доставляет события",
+    "time": "7:00–9:00",
+    "svg": "assets/05-B.svg",
+    "png": "assets/05-B.png"
+  },
+  {
+    "slide": 5,
+    "frame": "C",
+    "physical_slide": 13,
+    "title": "Как Kafka хранит и доставляет события",
+    "time": "7:00–9:00",
+    "svg": "assets/05-C.svg",
+    "png": "assets/05-C.png"
+  },
+  {
+    "slide": 6,
+    "frame": "A",
+    "physical_slide": 14,
+    "title": "Покупаем последний билет",
+    "time": "9:00–11:00",
+    "svg": "assets/06-A.svg",
+    "png": "assets/06-A.png"
+  },
+  {
+    "slide": 6,
+    "frame": "B",
+    "physical_slide": 15,
+    "title": "Покупаем последний билет",
+    "time": "9:00–11:00",
+    "svg": "assets/06-B.svg",
+    "png": "assets/06-B.png"
+  },
+  {
+    "slide": 7,
+    "frame": "A",
+    "physical_slide": 16,
+    "title": "Между SQLite и Kafka",
+    "time": "11:00–12:00",
+    "svg": "assets/07-A.svg",
+    "png": "assets/07-A.png"
+  },
+  {
+    "slide": 7,
+    "frame": "B",
+    "physical_slide": 17,
+    "title": "Между SQLite и Kafka",
+    "time": "11:00–12:00",
+    "svg": "assets/07-B.svg",
+    "png": "assets/07-B.png"
+  },
+  {
+    "slide": 7,
+    "frame": "C",
+    "physical_slide": 18,
+    "title": "Между SQLite и Kafka",
+    "time": "11:00–12:00",
+    "svg": "assets/07-C.svg",
+    "png": "assets/07-C.png"
+  },
+  {
+    "slide": 8,
+    "frame": "A",
+    "physical_slide": 19,
+    "title": "Transactional Outbox",
+    "time": "12:00–14:00",
+    "svg": "assets/08-A.svg",
+    "png": "assets/08-A.png"
+  },
+  {
+    "slide": 8,
+    "frame": "B",
+    "physical_slide": 20,
+    "title": "Transactional Outbox",
+    "time": "12:00–14:00",
+    "svg": "assets/08-B.svg",
+    "png": "assets/08-B.png"
+  },
+  {
+    "slide": 8,
+    "frame": "C",
+    "physical_slide": 21,
+    "title": "Transactional Outbox",
+    "time": "12:00–14:00",
+    "svg": "assets/08-C.svg",
+    "png": "assets/08-C.png"
+  },
+  {
+    "slide": 9,
+    "frame": "A",
+    "physical_slide": 22,
+    "title": "Бронирование на паузе",
+    "time": "14:00–17:00",
+    "svg": "assets/09-A.svg",
+    "png": "assets/09-A.png"
+  },
+  {
+    "slide": 9,
+    "frame": "B",
+    "physical_slide": 23,
+    "title": "Бронирование на паузе",
+    "time": "14:00–17:00",
+    "svg": "assets/09-B.svg",
+    "png": "assets/09-B.png"
+  },
+  {
+    "slide": 10,
+    "frame": "A",
+    "physical_slide": 24,
+    "title": "Два покупателя. Одно место",
+    "time": "17:00–20:00",
+    "svg": "assets/10-A.svg",
+    "png": "assets/10-A.png"
+  },
+  {
+    "slide": 10,
+    "frame": "B",
+    "physical_slide": 25,
+    "title": "Два покупателя. Одно место",
+    "time": "17:00–20:00",
+    "svg": "assets/10-B.svg",
+    "png": "assets/10-B.png"
+  },
+  {
+    "slide": 10,
+    "frame": "C",
+    "physical_slide": 26,
+    "title": "Два покупателя. Одно место",
+    "time": "17:00–20:00",
+    "svg": "assets/10-C.svg",
+    "png": "assets/10-C.png"
+  },
+  {
+    "slide": 11,
+    "frame": "A",
+    "physical_slide": 27,
+    "title": "Две попытки. Одно списание",
+    "time": "20:00–23:00",
+    "svg": "assets/11-A.svg",
+    "png": "assets/11-A.png"
+  },
+  {
+    "slide": 11,
+    "frame": "B",
+    "physical_slide": 28,
+    "title": "Две попытки. Одно списание",
+    "time": "20:00–23:00",
+    "svg": "assets/11-B.svg",
+    "png": "assets/11-B.png"
+  },
+  {
+    "slide": 11,
+    "frame": "C",
+    "physical_slide": 29,
+    "title": "Две попытки. Одно списание",
+    "time": "20:00–23:00",
+    "svg": "assets/11-C.svg",
+    "png": "assets/11-C.png"
+  },
+  {
+    "slide": 12,
+    "frame": "A",
+    "physical_slide": 30,
+    "title": "Что мы знаем о заказе?",
+    "time": "23:00–25:00",
+    "svg": "assets/12-A.svg",
+    "png": "assets/12-A.png"
+  },
+  {
+    "slide": 12,
+    "frame": "B",
+    "physical_slide": 31,
+    "title": "Что мы знаем о заказе?",
+    "time": "23:00–25:00",
+    "svg": "assets/12-B.svg",
+    "png": "assets/12-B.png"
+  },
+  {
+    "slide": 12,
+    "frame": "C",
+    "physical_slide": 32,
+    "title": "Что мы знаем о заказе?",
+    "time": "23:00–25:00",
+    "svg": "assets/12-C.svg",
+    "png": "assets/12-C.png"
+  },
+  {
+    "slide": 12,
+    "frame": "D",
+    "physical_slide": 33,
+    "title": "Что мы знаем о заказе?",
+    "time": "23:00–25:00",
+    "svg": "assets/12-D.svg",
+    "png": "assets/12-D.png"
+  }
+]

@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.sqlite*
+artifacts/*.png
+artifacts/*.cast
+node_modules/
+
+# AI assistant artifacts
+context-snapshot.json

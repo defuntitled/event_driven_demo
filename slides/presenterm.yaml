@@ -1,0 +1,4 @@
+# Explicit project settings; do not load personal presenterm configuration.
+defaults:
+  theme: dark
+  validate_overflows: always

@@ -1,0 +1,14 @@
+# Isolated acceptance only: internal APIs and Kafka remain loopback-bound.
+services:
+  kafka:
+    environment:
+      KAFKA_LISTENERS: PLAINTEXT://:9092,CONTROLLER://:9093,TEST://:19092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,TEST://localhost:${TEST_KAFKA_PORT:-19092}
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,CONTROLLER:PLAINTEXT,TEST:PLAINTEXT
+    ports: ['127.0.0.1:${TEST_KAFKA_PORT:-19092}:19092']
+  orders:
+    ports: ['127.0.0.1:18081:8081']
+  payments:
+    ports: ['127.0.0.1:18082:8082']
+  reservations:
+    ports: ['127.0.0.1:18083:8083']

@@ -8,8 +8,9 @@ node_modules/
 
 # AI assistant artifacts
 context-snapshot.json
-AGENT.md
-session-log.mdstate.md
+AGENTS.md
+session-log.md
+state.md
 project-map.md
 context-snapshot.json
 docs
